@@ -1,3 +1,6 @@
 {
-  "ghcr.io/eitsupi/devcontainer-features/mdbook:1": {}
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/eitsupi/devcontainer-features/mdbook:1": {}
+  }
 }
